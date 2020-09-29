@@ -1,6 +1,8 @@
 # Student-Performance-Dataset-Project
 Student Performance Dataset study with Python
 
+![](https://www.wooclap.com/en/blog/inside-classrooms/improving-student-performance-through-intrinsic-motivation/images/1.jpeg)
+
 This data approach student achievement in secondary education of two Portuguese schools. The data attributes include student grades, demographic, social and school 
 related features) and it was collected by using school reports and questionnaires. Two datasets are provided regarding the performance in two distinct subjects: 
 Mathematics (mat) and Portuguese language (por). In [Cortez and Silva, 2008], the two datasets were modeled under binary/five-level classification and regression tasks. 
