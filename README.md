@@ -1,7 +1,9 @@
-# Student-Performance-Dataset-Project
+## :books: Student-Performance-Dataset-Project
 Student Performance Dataset study with Python
 
 ![](https://www.wooclap.com/en/blog/inside-classrooms/improving-student-performance-through-intrinsic-motivation/images/1.jpeg)
+
+ ## :file_folder:  Business Problem
 
 This data approach student achievement in secondary education of two Portuguese schools. The data attributes include student grades, demographic, social and school 
 related features) and it was collected by using school reports and questionnaires. Two datasets are provided regarding the performance in two distinct subjects: 
@@ -13,7 +15,8 @@ more details).
 Since I did this project in advanced topics for computer engineering course, there are two separate studies, namely midterm and final project. The projects were made 
 according to the instructions requested by the course teacher.
 
-About Data
+## :white_check_mark:  Dataset Information
+
 1.	school - student's school (binary: "GP" - Gabriel Pereira or "MS" - Mousinho da Silveira)
 2.	sex - student's sex (binary: "F" - female or "M" - male)
 3.	age - student's age (numeric: from 15 to 22)
